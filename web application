@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Web Application</title>
+    <!-- Add your stylesheets or other head content here -->
+</head>
+<body>
+
+    <!-- Your content goes here -->
+    <header>
+        <h1>Your Web Application</h1>
+    </header>
+
+    <main>
+        <p>Welcome to your web application! Edit this content to get started.</p>
+    </main>
+
+    <!-- Add your scripts or other body content here -->
+
+    <footer>
+        <p>&copy; 2024 Your Web Application. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
