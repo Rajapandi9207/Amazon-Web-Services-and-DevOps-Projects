@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Netflix Clone</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #111;
+            color: #fff;
+        }
+
+        header {
+            background-color: #111;
+            padding: 15px;
+            text-align: center;
+        }
+
+        main {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            padding: 20px;
+        }
+
+        .movie {
+            margin: 15px;
+            text-align: center;
+        }
+
+        .movie img {
+            width: 100%;
+            max-width: 300px;
+            height: auto;
+            border-radius: 8px;
+        }
+
+        footer {
+            text-align: center;
+            padding: 15px;
+            background-color: #111;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Netflix Clone</h1>
+    </header>
+
+    <main>
+        <div class="movie">
+            <img src="movie1.jpg" alt="Movie 1">
+            <h2>Movie 1</h2>
+        </div>
+
+        <div class="movie">
+            <img src="movie2.jpg" alt="Movie 2">
+            <h2>Movie 2</h2>
+        </div>
+
+        <!-- Add more movie entries as needed -->
+
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Netflix Clone. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
