@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hotel Website</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 20px;
+        }
+
+        main {
+            padding: 20px;
+        }
+
+        section {
+            margin-bottom: 30px;
+        }
+
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Welcome to Our Hotel</h1>
+    </header>
+
+    <main>
+        <section>
+            <h2>About Us</h2>
+            <p>Discover the luxury and comfort of our hotel. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vestibulum lorem at libero ullamcorper, at tincidunt nunc ultrices.</p>
+        </section>
+
+        <section>
+            <h2>Rooms</h2>
+            <p>We offer a variety of rooms to suit your needs. Whether you're here for business or pleasure, our rooms provide a relaxing and enjoyable stay.</p>
+        </section>
+
+        <section>
+            <h2>Reservations</h2>
+            <p>Book your stay now to experience the best our hotel has to offer. Contact us to make a reservation or check availability.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Our Hotel. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
